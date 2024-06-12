@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+.menu-arrow-down {
+    transform: rotate(90deg);
+  }
+
+  .nav-item .nav-link.checked {
+    background-color: rgb(0, 183, 255); /* Set your desired background color */
+    color: white !important;
+}
+
+
+.content-wrapper {
+    background: #d3dcff !important;
+    padding: 2.375rem 2.375rem;
+    width: 100%;
+    -webkit-flex-grow: 1;
+    flex-grow: 1;
+    // background-image: url('/assets/newassets/bbgg.png')!important;
+}
